@@ -33,3 +33,4 @@ This is a simple Android app developed using Java and SQLite in Android Studio.
 
 
 Developed by Eyob Negash Mekonnen
+https://github.com/Eyob-Ne/Task-Manager-App/tree/master
